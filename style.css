@@ -1,0 +1,46 @@
+
+
+*{
+    background-color: rgb(241, 241, 237);
+     padding: 4px; 
+     margin: 0%;
+     box-sizing: border-box;
+    }
+
+
+#contact{
+    
+  box-sizing: border-box;
+  box-shadow: 2cm;
+  margin: 5% 20% 5% 20% ;
+    
+}
+
+#about.p{
+    margin: 3px 10px 3px 10px;
+    padding: 3px 10px 3px 10px;
+}
+
+.carousel-item {
+    background-color: black;
+}
+
+#Navbar{
+   background-color: rgb(124, 125, 125);
+   margin: 11px;
+}
+
+.nav{
+    color: black;
+    font-weight: 500;
+   
+}
+
+.nav-link {
+    color: #030303;
+    box-sizing: border-box;
+    background-color: rgb(108, 95, 119);
+    border: 1px;
+}
+
+
